@@ -1,3 +1,3 @@
 # HeelSync
 
-React application
+Insane MERN application coming soon...
